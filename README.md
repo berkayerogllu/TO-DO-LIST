@@ -1,11 +1,19 @@
 Features
+
 ✔ User authentication with username and password (demo: admin / 1234)
+
 ✔ Add, edit, delete, and mark tasks as completed
+
 ✔ Set and validate due dates (no past dates allowed)
+
 ✔ View tasks that are due within the next 7 days
+
 ✔ Persistent task storage using localStorage
+
 ✔ Dark theme design for better user experience
+
 ✔ Responsive and intuitive UI
+
 ✔ Simple state management using React hooks
 
 Technologies Used
